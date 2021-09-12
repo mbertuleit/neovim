@@ -36,7 +36,6 @@ nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
 inoremap <silent><expr> <c-space> coc#refresh()
-
 " COC Settings -------------------------
 set encoding=utf-8
 set hidden
@@ -44,5 +43,4 @@ set nobackup
 set nowritebackup
 set cmdheight=2 
 set number
-
 
