@@ -1,4 +1,3 @@
-" Specify a directory for plugins
 " - For Neovim: stdpath('data') . '/plugged'
 " - Avoid using standard Vim directory names like 'plugin'call plug#begin('~/.vim/plugged')
 call plug#begin('~/.vim/plugged')
@@ -43,4 +42,6 @@ set nobackup
 set nowritebackup
 set cmdheight=2 
 set number
-
+set tabstop=4
+set shiftwidth=4
+set expandtab
