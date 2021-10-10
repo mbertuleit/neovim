@@ -14,7 +14,7 @@ Plug 'prettier/vim-prettier'
 Plug 'junegunn/vim-easy-align'
 
 " Any valid git URL is allowed
-Plug  'tpope/vim-fugitive' 
+" Plug  'tpope/vim-fugitive' 
 
 " On-demand loading
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
